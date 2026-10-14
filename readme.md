@@ -8,7 +8,7 @@ Based on https://github.com/fan-world-me/HyperOS-ColorLightManager-Research
 
 - **4 lighting modes** - Rainbow cycle, Breathe pulse, Solid color, and Dual Ring with 4 dual effects (Hardware Split, Rotational Spin, Police Siren, Alternate) plus Beat Rainbow and Split Beat
 - **Audio Reactive** - the selected mode dances to your music with automatic beat detection, band tracking (kick / snare / vocal / hat), and auto sensitivity; live oscilloscope and manual tuning screen included; Global Media Mix or Microphone source
-- **6 color palettes** - Spectrum, Cyberpunk, Sunset, Ocean, Pastel, Fire - plus 8 presets and unlimited savable custom presets
+- **6 color palettes** - Spectrum, Cyberpunk, Sunset, Ocean, Pastel, Fire - plus  8 presets and unlimited savable custom presets
 - **Fine adjustments** - speed, brightness, saturation, hue, per-ring colors, spin steps, degrees-per-beat
 - **Smart automation** - pause when screen is off, or fully activate lights on notification with configurable duration; notification behavior is Off or Activate; per-app allowlist with own color and duration; listener self-heals if the system kills it
 - **Two control paths** - Root for full features incl. Dual Ring, or Shizuku for basic modes with no root
